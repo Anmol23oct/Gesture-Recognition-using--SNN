@@ -8,15 +8,7 @@ This repository contains the corresponding code from the paper [Jason K. Eshragh
 
 If you find this code useful in your work, please cite the following source:
 
-```
-@article{eshraghian2022navigating,
-  title={{Navigating Local Minima in Quantized Spiking Neural Networks}},
-  author={Eshraghian, Jason K and Lammie, Corey and Rahimi Azghadi, Mostafa and Lu, Wei D},
-  year={2022},
-  eprint={2202.07221},
-  archivePrefix={arXiv},
-}
-```
+
 
 ## Jupyter Notebook
 We provide a Jupyter notebook [here](https://github.com/jeshraghian/QSNNs/blob/main/quickstart.ipynb), which includes documentation and information about our developed scripts and methodologies. This can be run in a Google Collaboratory environment without any prerequisites [here](https://colab.research.google.com/github/jeshraghian/QSNNs/blob/main/quickstart.ipynb).
