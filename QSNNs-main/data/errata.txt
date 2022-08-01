@@ -1,0 +1,5 @@
+Errata
+------
+In sequence user01_natural.aedat the user performed gesture 5 before gesture 4. This is correctly annotated in the csv file (the csv files label the gestures in chronological order).
+
+Sequence user08_led.aedat was edited to remove a long irrelevant portion between gestures 5 and 6. The time stamps of the remaining part were adjusted to pretend timestamps continuity. 

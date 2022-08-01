@@ -1,0 +1,12 @@
+action,label
+hand_clapping,1
+right_hand_wave,2
+left_hand_wave,3
+right_arm_clockwise ,4
+right_arm_counter_clockwise ,5
+left_arm_clockwise ,6
+left_arm_counter_clockwise ,7
+arm_roll,8
+air_drums,9
+air_guitar,10
+other_gestures,11
