@@ -5,9 +5,9 @@ Theory:
 Project Description
 
 Observation: 
-GR-4bit
-GR-8bit
-GR-None
+GR-4bit //
+GR-8bit //
+GR-None //
 
 Code:
 QSNNs-main
